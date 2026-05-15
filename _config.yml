@@ -28,11 +28,11 @@ navbar-links:
  avatar: "/assets/img/Chairil_Akbar.jpeg"
 
 # Cut the image into a circle (set to false for square)
-# round-avatar: true
+ round-avatar: true
 
 # Use an image logo instead of the site title
-# title-img: /path/to/image
-
+ title-img: "/assets/img/Chairil_Akbar.jpeg"
+ 
 # --- Footer social media links --- #
 # Uncomment and fill in the ones you want to show in the footer.
 
