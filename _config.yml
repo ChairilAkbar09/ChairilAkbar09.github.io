@@ -25,7 +25,7 @@ navbar-links:
 # --- Logo / Avatar --- #
 
 # Image to show in the navigation bar (works best with a square image)
-# avatar: "/assets/img/avatar-icon.png"
+ avatar: "/assets/img/Chairil_Akbar.jpeg"
 
 # Cut the image into a circle (set to false for square)
 # round-avatar: true
@@ -37,11 +37,11 @@ navbar-links:
 # Uncomment and fill in the ones you want to show in the footer.
 
 social-network-links:
-#  email: "your@email.com"
-#  github: yourusername
+  email: "chairilakbar09@gmail.com"
+  github: ChairilAkbar09
 #  twitter: yourusername
-#  linkedin: yourusername
-#  instagram: yourusername
+  linkedin: https://www.linkedin.com/in/chairilakbar09/
+  instagram: ChairilAkbar09
 #  google-scholar: "citations?user=YOURID"
 #  orcid: "0000-0000-0000-0000"
 #  youtube: "c/yourchannel"
@@ -50,15 +50,15 @@ social-network-links:
 #  calendly: yourusername
 
 # Show RSS link in footer
-# rss-description: "Subscribe to my blog"
+ #rss-description: "Subscribe to my blog"
 
-# --- General options --- #
+ #--- General options --- #
 
-# Social share buttons on blog posts
+ #Social share buttons on blog posts
 # share-links-active:
 #   twitter: true
 #   facebook: true
-#   linkedin: true
+ #  linkedin: true
 
 # Excerpt word length on the blog feed page
 excerpt_length: 50
@@ -163,9 +163,6 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - vendor
-  - .bundle
-
 
 plugins:
   - jekyll-paginate
